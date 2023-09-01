@@ -104,11 +104,11 @@ input[type=text], input[type=email], input[type=password], select, textarea {
   font-family: 'Courier Prime', monospace;
 }
 
-select.selection option,
-{
+select.selection option {
   color: #9c07b6;
   font-family: 'Courier Prime', monospace;
 }
+
 
 input, select{
   color: #9c07b6;
